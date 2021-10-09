@@ -22,30 +22,21 @@ features:
   enable: true
   subtitle: Advantages
   title: Your Own Space
-  description: OneResume gives you a space on the internet that's all yours, so employers see you and only you.
+  description: OneResume gives you a space on the internet that's all yours, <br> so employers see you and only you.
   features_blocks:
-  - icon: las la-profile
-    title: Your Own Space
-    content: OneResume gives you a space on the internet that's all yours, so employers <br> see you and only  you.
-  - icon: las la-magnet
-    title: Edit Any Time
-    content: You're moving on from your job, and we get that. With OneResume, it's easy <br> to make changes to keep things up-to-date.
+  - icon: las la-id-badge
+    title: Stand Out
+    content: Get the upper hand on your competition with a digital resume that says you'll go the extra mile.
+  - icon: las la-bullseye
+    title: Showcase Your Knowledge
+    content: Keep your track record on one page, from education to experiences and skills.
   - icon: las la-tachometer-alt
-    title: Secured &amp; upto date
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Gain Exposure
+    content: Boost your discoverability with proven SEO and one place for all of your social profiles.
   - icon: las la-link
-    title: Instant Link Shareing
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
-  - icon: las la-lock
-    title: Updated Security
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
-  - icon: las la-magnet
-    title: Magnetic Turning
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Instant Sharing
+    content: Send your resume to your friends, hiring managers, and more with just a link.
+
 intro_video:
   enable: true
   subtitle: Short Intro Video
