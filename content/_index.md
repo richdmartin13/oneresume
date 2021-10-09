@@ -1,6 +1,6 @@
 ---
 banner:
-  title: One Resume, Just a Link Away
+  title: Your Resume, Just a Click Away
   button: Get Started
   button_link: #
   image: /images/banner.png
