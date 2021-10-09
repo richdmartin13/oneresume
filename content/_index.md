@@ -2,7 +2,7 @@
 banner:
   title: Your Resume, Just a Click Away
   button: See a Sample
-  button_link: #
+  button_link: https://richdmartin.oneresume.us
   image: /images/banner.png
 brands_carousel:
   enable: false
@@ -21,9 +21,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: Advantages
-  title: Share your resume with a link
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
-    <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Your Own Space
+  description: OneResume gives you a space on the internet that's all yours, so employers see you and only you.
   features_blocks:
   - icon: las la-profile
     title: Your Own Space
