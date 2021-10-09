@@ -1,7 +1,7 @@
 ---
 banner:
   title: Your Resume, Just a Click Away
-  description: OneResume gives you a space on the internet that's all yours, so employers see you and only you.
+  description: OneResume gives you a space on the internet <br> that's all yours, so employers see you and only you.
   button: See a Sample
   button_link: https://richdmartin.oneresume.us
   image: /images/banner.png
