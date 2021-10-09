@@ -29,9 +29,8 @@ features:
     title: Your Own Space
     content: OneResume gives you a space on the internet that's all yours, so employers <br> see you and only  you.
   - icon: las la-magnet
-    title: Magnetic Turning
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Edit Any Time
+    content: You're moving on from your job, and we get that. With OneResume, it's easy <br> to make changes to keep things up-to-date.
   - icon: las la-tachometer-alt
     title: Secured &amp; upto date
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
