@@ -3,7 +3,7 @@ banner:
   title: One resume, just a link away
   button: Get Started
   button_link: https://gethugothemes.com/products/andromeda/
-  image: images/banner-app.png
+  image: images/banner.png
 brands_carousel:
   enable: false
   brand_images:
@@ -65,13 +65,13 @@ how_it_works:
     description: Protect your design vision and leave nothing up to interpretation
       with interaction recipes. Quickly share and access all your team members interactions
       by using libraries, ensuring consistency throughout the.
-    image: images/features-01.png
+    image: images/online-resume.png
   - subtitle: Secondary Speciality
     title: sadf
     description: From the simplest of interactions to those that use Excel-gradeing
       formulas, ProtoPie can handle them all. Make mind-blowing of New interactions
       everyday without ever having to write any new code.
-    image: images/features-02.png
+    image: images/two-resumes.png
 testimonials:
   enable: false
   subtitle: Our Testimonials
