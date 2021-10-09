@@ -23,7 +23,6 @@ features:
   enable: true
   subtitle: Advantages
   title: Your Own Space
-  description: Why use OneResume?
   features_blocks:
   - icon: las la-id-badge
     title: Stand Out
