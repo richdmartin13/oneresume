@@ -28,7 +28,7 @@ custom_script= ""
 buy_premium_popup = false
 
 # Main Sections
-mainSections= []
+mainSections= ["blog"]
 
 # contact information
 [contact_info]
