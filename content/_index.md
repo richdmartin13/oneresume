@@ -1,7 +1,7 @@
 ---
 banner:
   title: Your Resume, Just a Click Away
-  button: Get Started
+  button: See a Sample
   button_link: #
   image: /images/banner.png
 brands_carousel:
