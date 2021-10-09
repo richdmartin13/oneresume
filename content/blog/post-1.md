@@ -4,22 +4,12 @@ title: "The Launch of OneResume"
 image: "images/blog/01.jpg"
 author_info: 
   name: "Richard Martin"
-  image: "images/author/abdullah.jpg"
+  image: "https://richdmartin.oneresume.us/assets/images/avatar.jpeg"
 draft: false
 ---
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+OneResume is now live! We're a digital resume platform that brings what's important into focus - you and your accomplishments. We strive to offer something different than LinkedIn: a personal space on the web where your experience truly shines, free from distraction.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+Here's how it works: you send us your resume, and we create a digital version that you can share with anyone. You can even put it on your own resume! If you don't already have a resume, we'll be happy to suggest some experienced resume writers that we work with to bring your skills into focus. Sadly, we can't help you with that part; we'll leave that to the professionals!
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
-
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
-
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+We're excited to see what the future will bring for you, and us. Be sure to check back here every once and a while to see what's new!
