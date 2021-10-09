@@ -7,7 +7,7 @@ draft: false
 who_we_are:
   enable: true
   subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
+  title: "We're OneResume, Here to Help You Stand Out"
   description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
 
   image: "images/about/01.jpg"
@@ -18,16 +18,16 @@ what_we_do:
   subtitle: "Our Works"
   title: "What We Do"
   block:
-  - title: "Building a new class"
+  - title: "Send us your resume"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
 
-  - title: "Design for anyone"
+  - title: "We give you a digital version"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
     
-  - title: "Creative flair design"
+  - title: "You get your own space"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
     
-  - title: "Building products"
+  - title: "And a way to share it"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
 
 # our_mission
@@ -41,7 +41,7 @@ our_mission:
 
 # about_video
 about_video:
-  enable: true
+  enable: false
   subtitle: "A Short Video"
   title: "You Take Care Of The Payments, We Take Care Of The Rest."
   description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the."
@@ -51,15 +51,15 @@ about_video:
 
 # brands
 brands_carousel:
-  enable: true
-  subtitle: "Our Clients"
-  title: "Trusted by Thousands Companies"
+  enable: false
+  subtitle: "Our Affiliates"
+  title: "Trusted by Resume Writers Everywhere"
   section: "/" # brand images comming form _index.md
 
 
 # our team
 our_team:
-  enable: true
+  enable: false
   subtitle: "Our members"
   title: "The People Behind"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
@@ -67,17 +67,11 @@ our_team:
   - name: "Valentin Staykov"
     image: "images/about/team/01.jpg"
     designation: "Operations"
-  - name: "Bukiakta Bansalo"
-    image: "images/about/team/02.jpg"
-    designation: "Product"
-  - name: "Ortrin Okaster"
-    image: "images/about/team/03.jpg"
-    designation: "Engineering"
 
 
 # our office
 our_office:
-  enable: true
+  enable: false
   subtitle: "Our Offices"
   title: "Made with Love Of around the world With Many Offices"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
