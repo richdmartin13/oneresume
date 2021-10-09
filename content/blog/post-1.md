@@ -5,7 +5,7 @@ image: "images/logo.jpeg"
 author_info: 
   name: "Richard Martin"
   image: "https://richdmartin.oneresume.us/assets/images/avatar.jpeg"
-draft: false
+draft: true
 ---
 
 OneResume is now live! We're a digital resume platform that brings what's important into focus - you and your accomplishments. We strive to offer something different than LinkedIn: a personal space on the web where your experience truly shines, free from distraction.
