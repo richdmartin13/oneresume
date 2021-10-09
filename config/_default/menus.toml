@@ -1,8 +1,8 @@
 # main menu
-# [[main]]
-# name = "About"
-# url = "about/"
-# weight = 1
+[[main]]
+name = "About"
+url = "about/"
+weight = 1
 
 [[main]]
 name = "Blog"
@@ -32,10 +32,10 @@ url = "contact/"
 weight = 5
 
 # footer menu
-# [[footer]]
-# name = "About"
-# url = "about/"
-# weight = 1
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
 
 [[footer]]
 name = "Blog"
