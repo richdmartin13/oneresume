@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Your Own Space
+  title: Your Resume, Just a Click Away
   description: OneResume gives you a space on the internet that's all yours, <br> so employers see you and only you.
   button: See a Sample
   button_link: https://richdmartin.oneresume.us
@@ -22,8 +22,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: Advantages
-  title: Your Resume, Just a Click Away
-  description: ...
+  title: Your Own Space
+  description: Why use OneResume?
   features_blocks:
   - icon: las la-id-badge
     title: Stand Out
