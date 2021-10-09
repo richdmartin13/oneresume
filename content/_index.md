@@ -3,7 +3,7 @@ banner:
   title: One resume, just a link away
   button: Get Started
   button_link: https://gethugothemes.com/products/andromeda/
-  image: images/hiring.svg
+  image: images/banner.png
 brands_carousel:
   enable: false
   brand_images:
