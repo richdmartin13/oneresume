@@ -61,20 +61,20 @@ how_it_works:
   enable: true
   block:
   - subtitle: Primary Speciality
-    title: You Will Not miss Your All misunderstandings
+    title: Your unique expertise in one place
     description: Protect your design vision and leave nothing up to interpretation
       with interaction recipes. Quickly share and access all your team members interactions
       by using libraries, ensuring consistency throughout the.
     image: images/features-01.png
   - subtitle: Secondary Speciality
-    title: Say hello to no-code The Advance Creation
+    title: sadf
     description: From the simplest of interactions to those that use Excel-gradeing
       formulas, ProtoPie can handle them all. Make mind-blowing of New interactions
       everyday without ever having to write any new code.
     image: images/features-02.png
 testimonials:
-  enable: true
-  subtitle: Our Testimonial
+  enable: false
+  subtitle: Our Testimonials
   title: Don't take our word for it
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
     <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
