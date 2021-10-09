@@ -36,7 +36,10 @@ features:
   - icon: las la-link
     title: Instant Sharing
     content: Send your resume to your friends, hiring managers, and more with just a link.
-
+  - icon: las la-feather
+    title: Edit Anytime
+    content: Your experiences change, and so do you. OneResume makes it easy to keep things up-to-date.
+    
 intro_video:
   enable: true
   subtitle: Short Intro Video
