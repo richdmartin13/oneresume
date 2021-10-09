@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/andromeda-light/"
 title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
@@ -49,3 +50,8 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+=======
+baseURL = "/"
+languageCode = "en-us"
+title = "One Resume"
+>>>>>>> 0ee381a3ef5e4d4081adb2652b3cce7f27d1ba23
