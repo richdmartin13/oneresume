@@ -51,13 +51,13 @@ intro_video:
 how_it_works:
   enable: true
   block:
-  - subtitle: Primary Speciality
+  - subtitle: Your Story
     title: Your unique expertise in one place
     description: Protect your design vision and leave nothing up to interpretation
       with interaction recipes. Quickly share and access all your team members interactions
       by using libraries, ensuring consistency throughout the.
     image: images/online-resume.png
-  - subtitle: Secondary Speciality
+  - subtitle: Your Style
     title: Choose from a variety of templates
     description: From the simplest of interactions to those that use Excel-gradeing
       formulas, ProtoPie can handle them all. Make mind-blowing of New interactions
