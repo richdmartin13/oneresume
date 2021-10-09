@@ -24,10 +24,10 @@ features:
   subtitle: Advantages
   title: Your Own Space
   features_blocks:
-  - icon: las la-id-badge
+  - icon: las la-seedling
     title: Stand Out
     content: Get the upper hand on your competition with a digital resume that says you'll go the extra mile.
-  - icon: las la-bullseye
+  - icon: las la-certificate
     title: Showcase Your Knowledge
     content: Keep your track record on one page, from education to experiences and skills.
   - icon: las la-tachometer-alt
