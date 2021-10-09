@@ -1,8 +1,8 @@
 ---
 banner:
-  title: One resume, just a link away
+  title: One Resume, Just a Link Away
   button: Get Started
-  button_link: https://gethugothemes.com/products/andromeda/
+  button_link: #
   image: /images/banner.png
 brands_carousel:
   enable: false
@@ -67,7 +67,7 @@ how_it_works:
       by using libraries, ensuring consistency throughout the.
     image: images/online-resume.png
   - subtitle: Secondary Speciality
-    title: sadf
+    title: Choose from a variety of templates
     description: From the simplest of interactions to those that use Excel-gradeing
       formulas, ProtoPie can handle them all. Make mind-blowing of New interactions
       everyday without ever having to write any new code.
