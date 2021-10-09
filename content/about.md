@@ -8,7 +8,7 @@ who_we_are:
   enable: true
   subtitle: "Who We Are"
   title: "We're OneResume, Here to Help You Stand Out"
-  description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
+  description: "We're a small team of developers, and we work with resume writers to help you get the perfect resume, online and offline."
 
   image: "images/about/01.jpg"
 
@@ -19,23 +19,23 @@ what_we_do:
   title: "What We Do"
   block:
   - title: "Send us your resume"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+    content: "The first step is to send us your resume. If you don't have one, we'll refer you to one of our affiliates to get a professional one in no time!"
 
   - title: "We give you a digital version"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+    content: "Based on your resume and a short discussion with you, we'll build a web version of your resume that showcases your experiences, interests and talents."
     
   - title: "You get your own space"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+    content: "You're already competing with other job candidates, so why compete on another platform? OneResume gives you a space where it's all about you."
     
   - title: "And a way to share it"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+    content: "Every resume gets its own space on our website. If you'd like to bring your own domain, you're welcome to! And if you'd like to get one, we'll help you get there."
 
 # our_mission
 our_mission:
   enable: true
   subtitle: "OUR MISSION"
   title: "Main Vision And Mission Of Our Company"
-  description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
+  description: "Our goal at OneResume is to simplify the way you share your resume and contact info with a space that's simply you."
 
   image: "images/about/02.jpg"
 
