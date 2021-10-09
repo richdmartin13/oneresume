@@ -21,14 +21,13 @@ brands_carousel:
 features:
   enable: true
   subtitle: Advantages
-  title: Your resume, on the Web
+  title: Share your resume with a link
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
     <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   features_blocks:
-  - icon: las la-lock
-    title: Updated Security
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+  - icon: las la-profile
+    title: Your Own Space
+    content: OneResume gives you a space on the internet that's all yours, so employers <br> see you and only  you.
   - icon: las la-magnet
     title: Magnetic Turning
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
