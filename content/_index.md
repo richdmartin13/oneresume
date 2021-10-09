@@ -5,7 +5,7 @@ banner:
   button_link: https://gethugothemes.com/products/andromeda/
   image: images/banner-app.png
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - images/brands/01-colored.png
   - images/brands/02-colored.png
@@ -20,8 +20,8 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Special Features
-  title: Elements to <br> get you started
+  subtitle: Advantages
+  title: Your resume, on the Web
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
     <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   features_blocks:
