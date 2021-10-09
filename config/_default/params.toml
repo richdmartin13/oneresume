@@ -8,18 +8,18 @@ logo_width = "240x"
 # logo text will only show when logo is missing.
 logo_text = "OneResume"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "OneResume is a service that puts your resume on the web so you can share it easily from anywhere."
+author = "Richard Martin"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "OneResume is a service provided by Richard Martin. "
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Created by Richard Martin"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -32,7 +32,7 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = ""
+address = "Knoxville, TN"
 phone = ["+1 (865) 274-9603"]
 email = ["rich@richdmart.in"]
 
@@ -50,7 +50,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "https://gethugothemes.com/products/andromeda/"
+link = ""
 
 # cookies
 [cookies]
@@ -63,27 +63,27 @@ button = "I Accept"
 [cta]
 enable = true
 title = "Get Your Digital Resume Now"
-content = "Get a resume that suits you and is available wherever you go. Strenthen your job search by offering something unique."
+content = "Stand out from the competition with a resume that can be shared easily, from anywhere you are."
 button = "Get Started"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button_link = ""
 
 ############################# social site ########################
-[[social]]
-title = "Andromeda"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "Andromeda"
+# icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+# link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "One_Resume"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
-link = "#!"
+link = "//twitter.com/one_resume"
 
-[[social]]
-title = "AndromedaIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "AndromedaIn"
+# icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+# link = "#!"
 
-[[social]]
-title = "AndromedaPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "AndromedaPin"
+# icon = "lab la-pinterest" # https://icons8.com/line-awesome
+# link = "#!"
