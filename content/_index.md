@@ -70,6 +70,6 @@ testimonials:
   - quote: This was fast and professional, and the result looks great! This is just what I needed in this digital-era!
     name: Matthew Martin
     designation: DJ, Glacial
-    
+    image: https://matthewhmartin.oneresume.us/assets/images/avatar.jpeg
 
 ---
