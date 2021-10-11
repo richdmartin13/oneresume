@@ -60,43 +60,16 @@ how_it_works:
     description: Find a resume style that expresses who you are. We have a growing list of resume templates that help you stand out against your competition in your own way.
     image: images/two-resumes.png
 testimonials:
-  enable: false
+  enable: true
   subtitle: Our Testimonials
   title: Don't take our word for it
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
-    <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Hear from some of our satisfied customers
   image_left: images/testimonials-01.png
   image_right: images/testimonials-02.png
   testimonials_quotes:
-  - quote: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu
-      congue felis volutpat. Vitae lectudbfs dolor faucibus
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/05-i.jpg
-  - quote: Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat.
-      Vitae lectudbfs pellentesque vitae dolor faucibus
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/06-i.jpg
-  - quote: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu
-      congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/07-i.jpg
-  - quote: Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis
-      volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/08-i.jpg
-  - quote: Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat.
-      Vitae lectudbfs pellentesque vitae dolor faucibus
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/09-i.jpg
-  - quote: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu
-      congue lectudbfs pellentesque vitae dolor faucibus
-    name: David Cameron
-    designation: CEO, Nexuspay
-    image: images/user-img/10-i.jpg
+  - quote: This was fast and professional, and the result looks great! This is just what I needed in this digital-era!
+    name: Matthew Martin
+    designation: DJ, Glacial
+    
 
 ---
