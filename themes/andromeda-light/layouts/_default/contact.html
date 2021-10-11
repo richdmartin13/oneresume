@@ -14,54 +14,17 @@
           {{end}}
         </div>
       </div>
-      {{with site.Params.contact_form_action}}
+      <!--{{with site.Params.contact_form_action}}-->
       <div class="col-lg-5 col-md-10" data-aos="fade-up">
-        <div class="contact-form">
-          <div class="mb-4">
-            <h3>Send A Message</h3>
-          </div>
-          <form id="contact-form" action="{{.}}" method="POST">
-            <p id="form-status" class="form-status"></p>
-            <div class="form-group">
-              <label for="name">Full Name</label>
-              <input class="form-control shadow-none" id="name" name="full_name" type="text" placeholder="Full Name" required>
-            </div>
-            <div class="form-group">
-              <label for="email">Email Address</label>
-              <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="Email Address" required>
-            </div>
-            <div class="form-group">
-              <label for="message">Your Message</label>
-              <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" required></textarea>
-            </div>
-
-            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">Send Message</button>
-          </form>
-        </div>
-      </div>
-
-      <script>
-        var form = document.getElementById('contact-form');
-        async function handleSubmit(event) {
-          event.preventDefault();
-          var status = document.getElementById("form-status");
-          var data = new FormData(event.target);
-          fetch(event.target.action, {
-            method: form.method,
-            body: data,
-            headers: {
-              'Accept': 'application/json'
-            }
-          }).then(response => {
-            status.innerHTML = "Thanks for your submission!";
-            form.reset()
-          }).catch(error => {
-            status.innerHTML = "Oops! There was a problem submitting your form";
-          });
-        }
-        form.addEventListener("submit", handleSubmit)
-      </script>
-      {{end}}
+        <div class="hb-p-61159010d2fe5f00071777c0-2"></div><img height="1" width="1" style="display:none" src="https://www.honeybook.com/p.png?pid=61159010d2fe5f00071777c0">
+<script>
+  (function(h,b,s,n,i,p,e,t) {
+    h._HB_ = h._HB_ || {};h._HB_.pid = i;;;;
+    t=b.createElement(s);t.type="text/javascript";t.async=!0;t.src=n;
+    e=b.getElementsByTagName(s)[0];e.parentNode.insertBefore(t,e);
+})(window,document,"script","https://widget.honeybook.com/assets_users_production/websiteplacements/placement-controller.min.js","61159010d2fe5f00071777c0");
+</script>
+      <!--{{end}}-->
     </div>
 
     <div class="section pb-0">
