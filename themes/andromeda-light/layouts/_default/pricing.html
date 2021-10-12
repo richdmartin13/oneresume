@@ -43,7 +43,6 @@
           </div>
           
           <div class="swiper-pagination"></div>
-          <p class="mb-0">{{.subscription_message | markdownify}}</p>
         </div>
       </div>
     </div>
@@ -51,6 +50,8 @@
   </div>
 </section>
 {{end}}
+
+<p class="mb-0">{{.subscription_message | markdownify }}</p>
 
 {{with .Params.card_ad}}
 {{if .enable}}
