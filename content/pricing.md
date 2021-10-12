@@ -17,3 +17,5 @@ pricing:
   - icon: las la-tachometer-alt
     title: Gain Exposure
     content: Boost your discoverability with proven SEO and one place for all of your social profiles.
+    
+---
