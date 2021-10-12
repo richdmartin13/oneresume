@@ -8,14 +8,14 @@ pricing:
   subtitle: Advantages
   title: Your Own Space
   pricing_blocks:
-  - icon: las la-seedling
-    title: Stand Out
-    content: Get the upper hand on your competition with a digital resume that says you'll go the extra mile.
-  - icon: las la-certificate
-    title: Showcase Your Knowledge
+  - icon: las la-certificat
+    title: Standard
+    content: Get a digital resume on our domain for only $5 per month.
+  - icon: las la-medal
+    title: Professional
     content: Keep your track record on one page, from education to experiences and skills.
-  - icon: las la-tachometer-alt
-    title: Gain Exposure
+  - icon: las la-trophy
+    title: Platinum
     content: Boost your discoverability with proven SEO and one place for all of your social profiles.
     
 ---
