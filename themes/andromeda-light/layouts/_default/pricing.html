@@ -28,7 +28,7 @@
                   <i class="{{.icon}}"></i>
                 </div>
                 <h3 class="title">{{.title | markdownify}}</h3>
-                <p class="mb-0" style="font-weight: bold">{{.content | markdownify}}</p>
+                <h3 class="title">{{.content | markdownify}}<span style="font-size: 18px; font-weight: 400">/Month</span></p>
                 <br/>
                 {{ range .features }}
                 <li>{{ .item }}</li>

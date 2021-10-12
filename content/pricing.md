@@ -10,7 +10,7 @@ pricing:
   pricing_blocks:
   - icon: las la-certificate
     title: Standard
-    content: $4.99/mo.
+    content: $4.99
     features: 
       - item: Subdomain on OneResume
       - item: Basic Customization
@@ -18,7 +18,7 @@ pricing:
     button_link: #
   - icon: las la-medal
     title: Professional
-    content: $7.99/mo.
+    content: $7.99
     features:
       - item: Standard Features
       - item: Access to Editor
@@ -27,7 +27,7 @@ pricing:
     button_link: #
   - icon: las la-trophy
     title: Platinum
-    content: $14.99/mo.
+    content: $14.99
     features:
       - item: Professional Features
       - item: Custom Templates
