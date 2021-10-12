@@ -23,7 +23,7 @@
           <div class="swiper-wrapper align-items-center">
             {{range .}}
             <div class="swiper-slide">
-              <div class="features-card" style="height: 550px;">
+              <div class="features-card" style="height: 500px;">
                 <div class="icon text-primary">
                   <i class="{{.icon}}"></i>
                 </div>
@@ -33,7 +33,7 @@
                 {{ range .features }}
                 <li>{{ .item }}</li>
                 {{ end }}
-                <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{.button}}</a>
+                <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200" style="bottom: 20px">{{.button}}</a>
               </div>
             </div>
             {{end}}
