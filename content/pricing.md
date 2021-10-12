@@ -8,7 +8,7 @@ pricing:
   subtitle: Advantages
   title: Your Own Space
   pricing_blocks:
-  - icon: las la-certificat
+  - icon: las la-certificate
     title: Standard
     content: Get a digital resume on our domain for only $5 per month.
   - icon: las la-medal
