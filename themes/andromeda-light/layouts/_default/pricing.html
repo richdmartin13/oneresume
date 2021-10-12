@@ -51,7 +51,7 @@
 </section>
 {{end}}
 
-<p class="mb-0">{{.subscription_message | markdownify }}</p>
+<p class="mb-0">{{ .Params.subscription_message | markdownify }}</p>
 
 {{with .Params.card_ad}}
 {{if .enable}}
