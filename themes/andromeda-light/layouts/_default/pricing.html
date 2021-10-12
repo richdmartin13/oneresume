@@ -28,12 +28,12 @@
                   <i class="{{.icon}}"></i>
                 </div>
                 <h3 class="title">{{.title | markdownify}}</h3>
-                <h3 class="title">{{.content | markdownify}}<span class="mb-0">/Month</span></p>
+                <h3 class="title">{{.content | markdownify}}<span style="font-weight: 400; font-size: 16px;">/Month</span></p>
                 <br/>
                 {{ range .features }}
-                <li class="mb-0">{{ .item }}</li>
+                <li style="font-weight: 400; font-size: 16px;">{{ .item }}</li>
                 {{ end }}
-                <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200" style="width: 90%;">{{.button}}</a>
+                <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200" style="width: 90%; align-self: flex-end;">{{.button}}</a>
               </div>
             </div>
             {{end}}
