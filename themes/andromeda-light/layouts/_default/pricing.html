@@ -28,7 +28,8 @@
                   <i class="{{.icon}}"></i>
                 </div>
                 <h3 class="title">{{.title | markdownify}}</h3>
-                <p class="mb-0">{{.content | markdownify}}</p>
+                <p class="mb-0" style="font-weight: bold">{{.content | markdownify}}</p>
+                <br/>
                 {{ range .features }}
                 <li>{{ .item }}</li>
                 {{ end }}
