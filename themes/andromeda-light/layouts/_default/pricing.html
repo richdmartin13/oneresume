@@ -23,7 +23,7 @@
             {{range .}}
             <div class="swiper-slide">
               <div class="features-card" style="height: 500px; display: flex; flex-flow: column nowrap; align-items: space-between; justify-content: center;">
-              <div>
+              <div style="flex: 4">
                 <div class="icon text-primary">
                   <i class="{{.icon}}"></i>
                 </div>
@@ -34,7 +34,7 @@
                 <li style="font-weight: 400; font-size: 16px;">{{ .item }}</li>
                 {{ end }}
                 </div>
-                <div style="width: 100%; align-self: flex-end;">
+                <div style="width: 100%; align-self: flex-end; flex: 1">
                 <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200" style="width: 90%; vertical-align: bottom; margin-bottom: 15px;">{{.button}}</a>
                 </div>
               </div>
