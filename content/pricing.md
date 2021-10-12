@@ -37,12 +37,14 @@ pricing:
     button: Sign Up
     button_link: https://buy.stripe.com/fZe9B484BavT3IY28c
     
+subscription_message: Please contact us to cancel your subscription. We plan on implementing a client portal for this purpose in the near future.
+    
 card_ad:
   enable: true
   block:
-  - subtitle: Your Story
-    title: Your unique expertise in one place
-    description: Your experiences are unique, and the place you show them off should be, too. OneResume gives you a space to show off your resume distraction-free, so your prospective employer can focus on what really matters - you.
-    image: images/online-resume.png
+  - subtitle: Coming Soon
+    title: OneResume Card
+    description: It's the last business card you'll ever need. Share your resume easily with a NFC- and QR-enabled card. It's as easy as a tap or a quick scan for anyone you meet.
+    image: images/card.png
     
 ---
