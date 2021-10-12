@@ -29,6 +29,9 @@
                 </div>
                 <h3 class="title">{{.title | markdownify}}</h3>
                 <p class="mb-0">{{.content | markdownify}}</p>
+                {{ range .features }}
+                <li>{{ .item }}</li>
+                {{ end }}
               </div>
             </div>
             {{end}}

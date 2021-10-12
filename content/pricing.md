@@ -11,6 +11,9 @@ pricing:
   - icon: las la-certificate
     title: Standard
     content: $5 PER MONTH
+    features: 
+      - item: Subdomain on OneResume
+      - item: Basic Customization
   - icon: las la-medal
     title: Professional
     content: $10 PER MONTH
