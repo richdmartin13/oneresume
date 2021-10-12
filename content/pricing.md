@@ -14,7 +14,6 @@ pricing:
     features: 
       - item: Subdomain on OneResume
       - item: Basic Customization
-      - item: Access to Editor
     button: Sign Up
     button_link: https://buy.stripe.com/eVacNgacJ1Zn7Ze002
   - icon: las la-medal
@@ -23,7 +22,7 @@ pricing:
     features:
       - item: Standard Features
       - item: Link a Custom Domain
-      - item: On-call Support
+      - item: Access to Editor [BETA]
     button: Sign Up
     button_link: https://buy.stripe.com/4gw00u1GdavTgvK5kn
   - icon: las la-trophy
