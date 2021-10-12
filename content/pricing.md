@@ -36,16 +36,12 @@ pricing:
     button: Sign Up
     button_link: #
     
-  card_ad:
+card_ad:
   enable: true
   block:
   - subtitle: Your Story
     title: Your unique expertise in one place
     description: Your experiences are unique, and the place you show them off should be, too. OneResume gives you a space to show off your resume distraction-free, so your prospective employer can focus on what really matters - you.
     image: images/online-resume.png
-  - subtitle: Your Style
-    title: Choose from a variety of templates
-    description: Find a resume style that expresses who you are. We have a growing list of resume templates that help you stand out against your competition in your own way.
-    image: images/two-resumes.png
     
 ---
