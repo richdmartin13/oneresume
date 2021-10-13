@@ -1,0 +1,88 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+{{with .Params.pricing}}
+<section class="section features overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up">
+        <div class="section-title text-center">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+
+    {{with .pricing_blocks}}
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+        <div class="features-carousel swiper-container">
+          <div class="swiper-wrapper align-items-center">
+            {{range .}}
+            <div class="swiper-slide">
+              <div class="features-card" style="height: 500px; display: flex; flex-flow: column nowrap; align-items: space-between; justify-content: center;">
+              <div style="flex: 8">
+                <div class="icon text-primary">
+                  <i class="{{.icon}}"></i>
+                </div>
+                <h3 class="title">{{.title | markdownify}}</h3>
+                <h3 class="title">{{.content | markdownify}}<span style="font-weight: 400; font-size: 16px;">/Month</span></p>
+                <br/>
+                {{ range .features }}
+                <li style="font-weight: 400; font-size: 16px;">{{ .item }}</li>
+                {{ end }}
+                </div>
+                <div style="width: 100%; align-self: flex-end; flex: 1">
+                <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200" style="width: 90%;">{{.button}}</a>
+                </div>
+              </div>
+            </div>
+            {{end}}
+          </div>
+          
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+
+<p class="mb-0" style="margin: 0 auto; text-align: center">{{ .Params.subscription_message | markdownify }}</p>
+
+{{with .Params.card_ad}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    {{ $.Scratch.Set "counter" 0 }}
+    {{range .block}}
+    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{$n := $.Scratch.Get "counter"}}
+    <div class="row justify-content-center align-items-center mb-4">
+      <div class="col-lg-5 {{if (modBool $n 2)}} order-md-1 {{end}}" data-aos="fade-up">
+        <div class="section-title mb-0">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title text-break">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-lg-6 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="pl-0 pl-lg-3">
+          {{ if fileExists (add `assets/` .image) }}
+          {{$img:= resources.Get .image }}
+          {{$img:= $img.Resize "575x"}}
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{end}}

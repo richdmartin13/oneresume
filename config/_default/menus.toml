@@ -53,7 +53,7 @@ name = "Affiliate Log In"
 url = "#"
 weight = 4
 
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
-weight = 5
+# [[footer]]
+# name = "Terms & Conditions"
+# url = "terms-and-conditions/"
+# weight = 5

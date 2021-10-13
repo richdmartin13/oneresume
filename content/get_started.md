@@ -1,0 +1,49 @@
+---
+title: "Get Started"
+layout: "start"
+draft: false
+
+pricing:
+  enable: true
+  subtitle: See Our Plans
+  title: 
+  pricing_blocks:
+  - icon: las la-certificate
+    title: Standard
+    content: $4.99
+    features: 
+      - item: Subdomain on OneResume
+      - item: Basic Customization
+    button: Sign Up
+    button_link: https://buy.stripe.com/eVacNgacJ1Zn7Ze002
+  - icon: las la-medal
+    title: Professional
+    content: $7.99
+    features:
+      - item: Standard Features
+      - item: Link a Custom Domain
+      - item: Access to Editor [BETA]
+    button: Sign Up
+    button_link: https://buy.stripe.com/4gw00u1GdavTgvK5kn
+  - icon: las la-trophy
+    title: Platinum
+    content: $14.99
+    features:
+      - item: Professional Features
+      - item: Custom Templates
+      - item: Multiple Resumes
+      - item: OneResume Card (Coming Soon)
+    button: Sign Up
+    button_link: https://buy.stripe.com/fZe9B484BavT3IY28c
+    
+subscription_message: Please contact us to cancel your subscription. We plan on implementing a client portal for this purpose in the near future.
+    
+card_ad:
+  enable: true
+  block:
+  - subtitle: Coming Soon
+    title: OneResume Card
+    description: It's the last business card you'll ever need. Share your resume easily with a NFC- and QR-enabled card. It's as easy as a tap or a quick scan for anyone you meet.
+    image: images/card.png
+    
+---
