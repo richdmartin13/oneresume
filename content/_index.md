@@ -71,7 +71,7 @@ testimonials:
     name: Matthew Martin
     designation: DJ, Glacial
     image: https://matthewhmartin.oneresume.us/assets/images/avatar.jpeg
-  - quote: A digital resume is such a handy tool that’ll make networking simpler, and much more personal than LinkedIn. Richard is very professional, and responded kindly and promptly to my questions and requests. Highly recommend! 
+  - quote: A digital resume is such a handy tool that’ll make networking simpler, and much more personal than LinkedIn. Richard is very professional, and responded kindly and promptly to my questions and requests. Highly recommend!
     name: Elisabeth Martin
     designation: Communications Specialist
     image: https://elisabethmartin0.oneresume.us/assets/images/avatar.jpeg
