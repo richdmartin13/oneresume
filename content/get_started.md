@@ -1,7 +1,12 @@
 ---
 title: "Get Started"
-layout: "start"
+layout: "get_started"
 draft: false
+
+how_it_works:
+  enable: true
+  subtitle: What You Need to Know
+  title: Our Process
 
 pricing:
   enable: true
