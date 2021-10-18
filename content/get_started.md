@@ -15,7 +15,7 @@ pricing:
   pricing_blocks:
   - icon: las la-certificate
     title: Standard
-    content: $4.99
+    content: $2.99
     features: 
       - item: Subdomain on OneResume
       - item: Basic Customization
@@ -23,7 +23,7 @@ pricing:
     button_link: https://buy.stripe.com/eVacNgacJ1Zn7Ze002
   - icon: las la-medal
     title: Professional
-    content: $7.99
+    content: $4.99
     features:
       - item: Standard Features
       - item: Link a Custom Domain
@@ -32,7 +32,7 @@ pricing:
     button_link: https://buy.stripe.com/4gw00u1GdavTgvK5kn
   - icon: las la-trophy
     title: Platinum
-    content: $14.99
+    content: $9.99
     features:
       - item: Professional Features
       - item: Custom Templates
