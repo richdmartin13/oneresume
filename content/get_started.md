@@ -20,7 +20,7 @@ pricing:
       - item: Subdomain on OneResume
       - item: Basic Customization
     button: Sign Up
-    button_link: https://buy.stripe.com/eVacNgacJ1Zn7Ze002
+    button_link: https://buy.stripe.com/bIYdRk70x0Vj1AQdQV
   - icon: las la-medal
     title: Professional
     content: $4.99
@@ -29,7 +29,7 @@ pricing:
       - item: Link a Custom Domain
       - item: Access to Editor [BETA]
     button: Sign Up
-    button_link: https://buy.stripe.com/4gw00u1GdavTgvK5kn
+    button_link: https://buy.stripe.com/cN2eVodoV1Zndjy006
   - icon: las la-trophy
     title: Platinum
     content: $9.99
@@ -39,7 +39,7 @@ pricing:
       - item: Multiple Resumes
       - item: OneResume Card (Coming Soon)
     button: Sign Up
-    button_link: https://buy.stripe.com/fZe9B484BavT3IY28c
+    button_link: https://buy.stripe.com/bIYfZsckR47vbbqaEL
     
 subscription_message: Please contact us to cancel your subscription. We plan on implementing a client portal for this purpose in the near future.
     
