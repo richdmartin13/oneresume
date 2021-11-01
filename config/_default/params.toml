@@ -50,7 +50,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "get_started/"
+link = "/get_started/"
 
 # cookies
 [cookies]
@@ -65,7 +65,7 @@ enable = true
 title = "Get Your Digital Resume Now"
 content = "Stand out from the competition with a resume that can be shared easily, from anywhere you are."
 button = "Get Started"
-button_link = "get_started/"
+button_link = "/get_started/"
 
 ############################# social site ########################
 # [[social]]
